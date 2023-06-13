@@ -1,0 +1,1 @@
+# Deprem-Yard-m-Uygulamas-
