@@ -1,1 +1,1 @@
-# Deprem-Yard-m-Uygulamas-
+# Deprem-Yardim Uygulamasi Python
